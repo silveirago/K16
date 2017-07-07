@@ -1,7 +1,7 @@
 On a Mac
 Go to the aplications
 Right click on th Ableton Live icon and click show package contents
-Copy the K16 folder containing the scripts to /Applications/Ableton Live/Ableton Live 9 Suite 32.app/Contents/App-Resources
+Copy the K16 folder containing the scripts to /Applications/Ableton Live/Ableton Live 9 Suite 32.app/Contents/App-Resources/MIDI Remote Scripts
 Open Ableton Live
 Go to Preferences
 Open the MIDI preferences
